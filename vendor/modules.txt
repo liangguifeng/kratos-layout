@@ -82,7 +82,7 @@ github.com/jinzhu/now
 github.com/jmespath/go-jmespath
 # github.com/json-iterator/go v1.1.6
 github.com/json-iterator/go
-# github.com/liangguifeng/kratos-app v1.0.2
+# github.com/liangguifeng/kratos-app v1.0.3
 ## explicit
 github.com/liangguifeng/kratos-app
 github.com/liangguifeng/kratos-app/app
