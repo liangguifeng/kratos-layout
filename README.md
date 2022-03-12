@@ -9,9 +9,9 @@
 1. 新建项目
 
 ```shell
-kratos new helloworld -r git@github.com:liangguifeng/kratos-layout.git
+git clone git@github.com:liangguifeng/kratos-layout.git kratos-layout-demo
 # 如果觉得慢的话可以使用gitee
-kratos new helloworld -r git@gitee.com:liangguifeng/kratos-layout.git
+git clone git@gitee.com:liangguifeng/kratos-layout.git kratos-layout-demo
 ```
 
 2. 配置环境变量
